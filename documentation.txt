@@ -1,0 +1,32 @@
+meka cmd eke run karanna baha 
+git bash eke pluwan
+
+powershell ekenuth karanna pluwan i guess
+
+git bash eken 
+
+sh test.sh
+
+
+
+===
+
+powershell try karamu
+
+Expand-Archive -Force E:\ParttimeProjects\my-portfolio\Baker.zip E:\ParttimeProjects\my-portfolio\ouy
+
+uda command eken extract wenwa powershell
+
+
+============
+
+cmd eken karannama oninm 
+
+powershell -command "Expand-Archive E:\ParttimeProjects\my-portfolio\Baker.zip E:\ParttimeProjects\my-portfolio\ouy
+
+kiyala powershello command ekak widihata dunnanm hari 
+
+
+powershell ekenma okkoma karanna funciton ekak hambuna
+
+Get-ChildItem 'E:\ParttimeProjects\my-portfolio' -Filter *.zip | Expand-Archive -DestinationPath 'E:\ParttimeProjects\my-portfolio\out\' -Force
